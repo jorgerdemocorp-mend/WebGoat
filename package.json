@@ -11,6 +11,6 @@
   "license": "ISC",
   "dependencies": {
     "event-source-polyfill": "1.0.26",
-    "faker": "6.0.0"
+    "faker": "7.6.0"
   }
 }
