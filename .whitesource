@@ -1,6 +1,6 @@
 {
-  "settingsInheritedFrom": "jorgerdemocorp-mend/whitesource-config@main"
-  "scanSexxttings": {
+  "settingsInheritedFrom": "jorgerdemocorp-mend/whitesource-config@main",
+  "scanSettings": {
     "configMode": "LOCAL"
   }
 }
