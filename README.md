@@ -1,4 +1,4 @@
-# Added commend before release 2
+# Added commend before release 3
 
 # WebGoat 8: A deliberately insecure Web Application
 
