@@ -12,6 +12,6 @@
   "dependencies": {
     "event-source-polyfill": "1.0.30",
     "faker": "6.6.6",
-    "express": "3.0.0"
+    "express": "3.3.1"
   }
 }
