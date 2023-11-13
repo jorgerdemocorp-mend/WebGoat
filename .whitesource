@@ -1,5 +1,4 @@
 {
-  "settingsInheritedFrom": "jorgerdemocorp-mend/whitesource-config@main",
   "scanSettings": {
     "configMode": "LOCAL"
   }
