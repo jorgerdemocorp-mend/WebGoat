@@ -10,10 +10,10 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "event-source-polyfill": "1.0.30",
+    "event-source-polyfill": "1.0.31",
     "faker": "5.5.3",
     "express": "3.0.1",
     "lodash": "0.10.0",
-    "axios": "0.21.1"
+    "axios": "0.28.1"
   }
 }
